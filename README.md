@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/1200x/cc/cd/a4/cccda4b5701b35465b865bd8a87e3329.jpg" width="500" style="border-radius:100%"/>
+<img src="https://i.pinimg.com/1200x/74/11/88/7411882ed8402090c9519690a422853b.jpg" width="1000" style="border-radius:100%"/>
 
 # Hi 👋, I'm Kritik
 
@@ -34,6 +34,8 @@ My goal: bridge the gap between raw data and responsible AI, one project at a ti
 
 ---
 
+<div align="center">
+
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-000000.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -50,12 +52,17 @@ My goal: bridge the gap between raw data and responsible AI, one project at a ti
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-000000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=Kroxeleven&theme=dark&hide_border=true&border_radius=0&count_private=false)
 
+</div>
 ---
 
 <p align="center">
