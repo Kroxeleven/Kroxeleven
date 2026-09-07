@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/1200x/74/11/88/7411882ed8402090c9519690a422853b.jpg" width="1000" style="border-radius:100%"/>
+<img src="https://i.pinimg.com/736x/ef/5b/7a/ef5b7a2b485e48e67e36080ca2938be4.jpg" width="1000" style="border-radius:100%"/>
 
 # Hi 👋, I'm Kritik
 
