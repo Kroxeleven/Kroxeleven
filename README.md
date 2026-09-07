@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://your-image-link-here.png" width="150" style="border-radius:50%"/>
+<img src="(https://pin.it/7rhTe5MlD)" width="150" style="border-radius:50%"/>
 
 # Hi 👋, I'm Kritik
 
