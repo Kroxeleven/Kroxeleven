@@ -6,7 +6,7 @@
 
 <div align="center">
   
-## 🔭 About Me
+## About Me
 
 </div>
 
@@ -35,7 +35,7 @@ I'm currently focused on strengthening my skills in data analysis, machine learn
 
 <div align="center">
 
-## 🤝 Connect
+##  Connect
 
 <a href="https://www.linkedin.com/in/kritik-vasan/"><img src="https://img.shields.io/badge/LinkedIn-2C3E50?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Kroxeleven"><img src="https://img.shields.io/badge/GitHub-2C3E50?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -46,7 +46,7 @@ I'm currently focused on strengthening my skills in data analysis, machine learn
 
 <div align="center">
 
-## 💻 Tech Stack
+##  Tech Stack
 
 **Languages**
 <br/>
@@ -73,7 +73,7 @@ I'm currently focused on strengthening my skills in data analysis, machine learn
 
 <div align="center">
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=Kroxeleven&theme=dark&hide_border=true&border_radius=0&count_private=false)
 
